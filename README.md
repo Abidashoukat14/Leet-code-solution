@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
