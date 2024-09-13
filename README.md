@@ -15,6 +15,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 | ------- |
 | [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
