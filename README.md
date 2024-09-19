@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -54,6 +56,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
