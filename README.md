@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
