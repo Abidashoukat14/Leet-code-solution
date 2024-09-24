@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Counting
