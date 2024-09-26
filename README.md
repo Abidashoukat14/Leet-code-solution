@@ -90,11 +90,13 @@
 | ------- |
 | [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
