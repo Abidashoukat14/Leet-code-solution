@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
