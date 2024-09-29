@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
