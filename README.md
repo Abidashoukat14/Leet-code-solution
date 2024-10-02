@@ -104,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
@@ -117,6 +118,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
