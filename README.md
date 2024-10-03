@@ -106,6 +106,7 @@
 | [0014-longest-common-prefix](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0058-length-of-last-word) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
