@@ -44,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
@@ -107,6 +109,7 @@
 | [0020-valid-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
