@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@
 | [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -119,6 +122,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
