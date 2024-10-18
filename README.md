@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -57,6 +58,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
