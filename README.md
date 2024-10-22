@@ -142,6 +142,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
 ## Enumeration
@@ -158,16 +159,19 @@
 | [0020-valid-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
 | ------- |
