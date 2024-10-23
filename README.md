@@ -109,6 +109,7 @@
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0125-valid-palindrome](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
