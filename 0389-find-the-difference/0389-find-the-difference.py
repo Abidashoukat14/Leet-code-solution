@@ -1,11 +1,11 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        sumOf_s=sumOf_t=0
-        for i in t:
-            sumOf_t+=ord(i)
-        for j in s:
-            sumOf_s+=ord(j)   
-        random_letter=sumOf_t-sumOf_s
-        return  chr(random_letter)    
-            
+        s_sum=0
+        t_sum=0
+        for i in s:
+            s_sum+=ord(i)
+        for j in t:
+            t_sum+=ord(j)    
+        difference=t_sum-s_sum
+        return chr(difference)
         
