@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -93,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
