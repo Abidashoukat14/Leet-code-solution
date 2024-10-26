@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -112,6 +113,7 @@
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
