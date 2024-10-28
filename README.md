@@ -57,6 +57,7 @@
 | [0043-multiply-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
@@ -72,6 +73,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
