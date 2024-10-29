@@ -39,6 +39,7 @@
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
@@ -58,6 +59,7 @@
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
@@ -149,6 +151,7 @@
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
