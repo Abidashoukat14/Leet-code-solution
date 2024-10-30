@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
