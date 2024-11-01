@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
@@ -105,6 +106,7 @@
 | [0018-4sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
@@ -133,6 +135,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
