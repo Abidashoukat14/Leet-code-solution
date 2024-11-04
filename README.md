@@ -65,6 +65,7 @@
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
@@ -126,6 +127,7 @@
 | [0042-trapping-rain-water](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
