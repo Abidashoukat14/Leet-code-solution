@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
