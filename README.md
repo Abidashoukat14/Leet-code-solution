@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
