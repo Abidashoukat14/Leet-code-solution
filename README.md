@@ -26,6 +26,7 @@
 | [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
@@ -48,6 +49,7 @@
 | [0041-first-missing-positive](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
@@ -115,6 +118,7 @@
 | [0056-merge-intervals](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
@@ -248,4 +252,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
