@@ -35,6 +35,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
+| [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
@@ -109,6 +110,7 @@
 | [0036-valid-sudoku](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0064-minimum-path-sum) |
+| [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
@@ -154,6 +156,7 @@
 | [0189-rotate-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
+| [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
 ## String
 |  |
 | ------- |
