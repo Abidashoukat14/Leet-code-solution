@@ -34,6 +34,7 @@
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1603-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@
 | [0125-valid-palindrome](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
