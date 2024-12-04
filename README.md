@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
@@ -59,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
@@ -80,6 +82,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -96,6 +99,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -130,6 +134,7 @@
 | [0179-largest-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -249,6 +254,7 @@
 | [0029-divide-two-integers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
