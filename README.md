@@ -37,6 +37,7 @@
 | [0228-summary-ranges](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1603-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -100,6 +102,7 @@
 | [0035-search-insert-position](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -135,6 +138,7 @@
 | [0217-contains-duplicate](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -169,6 +173,7 @@
 | [0189-rotate-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
 ## String
