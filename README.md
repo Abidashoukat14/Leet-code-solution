@@ -46,6 +46,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3194-find-words-containing-character](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3194-find-words-containing-character) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
