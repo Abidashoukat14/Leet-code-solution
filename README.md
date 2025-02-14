@@ -39,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
@@ -88,6 +89,7 @@
 | [0268-missing-number](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -117,6 +119,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
@@ -285,4 +288,12 @@
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
