@@ -3,8 +3,6 @@ class ProductOfNumbers:
     def __init__(self):
         self.list=[]
         self.product=1
-        
-
     def add(self, num: int) -> None:
         if num == 0:
             self.list=[]
@@ -12,8 +10,6 @@ class ProductOfNumbers:
         else:
             self.product*=num
             self.list.append(self.product)    
-        
-
     def getProduct(self, k: int) -> int:
         if len(self.list) < k:
             return 0
