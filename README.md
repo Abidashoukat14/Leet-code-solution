@@ -91,6 +91,7 @@
 | [0415-add-strings](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [0022-generate-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0047-permutations-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
 | ------- |
