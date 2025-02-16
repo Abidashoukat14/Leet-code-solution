@@ -43,6 +43,7 @@
 | [1580-shuffle-the-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1635-number-of-good-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1972-rotating-the-box](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -273,6 +274,7 @@
 | [0022-generate-parentheses](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/0047-permutations-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abidashoukat14/Leet-code-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
